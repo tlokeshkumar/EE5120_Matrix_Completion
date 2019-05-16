@@ -7,4 +7,4 @@ This Repository contains the materials that were used for project in **Applied L
 
 Slides used are [here]()
 
-Video presentation is [here]()
+Video presentation is [here](https://www.youtube.com/watch?v=zCEgDMzMLZs)
